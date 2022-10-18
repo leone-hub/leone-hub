@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Leone/posts.svg)](http://qiita.com/Leone)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Leone/contributions.svg)](http://qiita.com/Leone)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/Leone/followers.svg)](http://qiita.com/Leone)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leone-hub&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leone-hub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **leone-hub/leone-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
