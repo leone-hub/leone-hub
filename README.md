@@ -16,10 +16,10 @@
 <!-- GitHub section -->
 <p align="left">
   <a href="#">
-    <img height="216" alt="Github Stats" src="https://psnl-vercel-githubstats.vercel.app/api?username=leone-hub&count_private=true&show_icons=true&theme=radical" />
+    <img height="180" alt="Github Stats" src="https://psnl-vercel-githubstats.vercel.app/api?username=leone-hub&count_private=true&show_icons=true&theme=radical" />
   </a>
   <a href="#">
-    <img height="216" alt="Github Stats" src="https://psnl-vercel-githubstats.vercel.app/api/top-langs/?username=leone-hub&layout=compact&theme=radical" />
+    <img height="180" alt="Github Stats" src="https://psnl-vercel-githubstats.vercel.app/api/top-langs/?username=leone-hub&layout=compact&theme=radical" />
   </a>
   <a href="#">
     <img height="180" alt="Github trophy" src="https://github-profile-trophy.vercel.app/?username=leone-hub&theme=onedark" />
