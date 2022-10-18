@@ -1,13 +1,34 @@
 ### Hi there 👋
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Leone/posts.svg)](http://qiita.com/Leone)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Leone/contributions.svg)](http://qiita.com/Leone)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/Leone/followers.svg)](http://qiita.com/Leone)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leone-hub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leone-hub&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leone-hub&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=leone-hub&theme=onedark&margin-w=30)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Qiita section -->
+<p align="left">
+  <a href="#">
+    <img height="20" alt="Qiita posts" src="https://qiita-badge.apiapi.app/s/Leone/posts.svg">
+  </a>
+  <a href="#">
+    <img height="20" alt="Qiita contributions" src="https://qiita-badge.apiapi.app/s/Leone/contributions.svg">
+  </a>
+  <a href="#">
+    <img height="20" alt="Qiita followers" src="https://qiita-badge.apiapi.app/s/Leone/followers.svg">
+  </a>
+</p>
 
+<!-- GitHub section -->
+<p align="left">
+  <a href="#">
+    <img height="216" alt="Github Stats" src="https://psnl-vercel-githubstats.vercel.app/api?username=leone-hub&count_private=true&show_icons=true&theme=radical" />
+  </a>
+  <a href="#">
+    <img height="216" alt="Github Stats" src="https://psnl-vercel-githubstats.vercel.app/api/top-langs/?username=leone-hub&layout=compact&theme=radical" />
+  </a>
+  <a href="#">
+    <img height="180" alt="Github trophy" src="https://github-profile-trophy.vercel.app/?username=leone-hub&theme=onedark" />
+  </a>
+</p>
+
+<!-- other section -->
+<!-- other section trophy -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!--
 **leone-hub/leone-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
