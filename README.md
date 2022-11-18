@@ -15,14 +15,14 @@
 
 <!-- GitHub section -->
 <p align="left">
-  <a href="#">
-    <img width="390" alt="Github Stats" src="https://profile-vercel-githubstats.vercel.app/api?username=leone-hub&count_private=true&show_icons=true&theme=radical" />
+  <a href="#" width="390">
+    <img height="150" alt="Github Stats" src="https://profile-vercel-githubstats.vercel.app/api?username=leone-hub&count_private=true&show_icons=true&theme=radical" />
+  </a>
+  <a href="#" width="407">
+    <img height="150" alt="Github Stats" src="https://profile-vercel-githubstats.vercel.app/api/top-langs/?username=leone-hub&layout=compact&theme=radical" />
   </a>
   <a href="#">
-    <img width="407" alt="Github Stats" src="https://profile-vercel-githubstats.vercel.app/api/top-langs/?username=leone-hub&layout=compact&theme=radical" />
-  </a>
-  <a href="#">
-    <img width="800" alt="Github trophy" src="https://github-profile-trophy.vercel.app/?username=leone-hub&theme=onedark" />
+    <img height="160" alt="Github trophy" src="https://github-profile-trophy.vercel.app/?username=leone-hub&theme=onedark" />
   </a>
 </p>
 
