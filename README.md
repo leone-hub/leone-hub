@@ -22,7 +22,7 @@
     <img height="120" alt="Github Stats" src="https://profile-vercel-githubstats.vercel.app/api/top-langs/?username=leone-hub&layout=compact&theme=radical" />
   </a>
   <a href="#">
-    <img height="120" alt="Github trophy" src="https://github-profile-trophy.vercel.app/?username=leone-hub&theme=onedark" />
+    <img height="130" alt="Github trophy" src="https://github-profile-trophy.vercel.app/?username=leone-hub&theme=onedark" />
   </a>
 </p>
 
